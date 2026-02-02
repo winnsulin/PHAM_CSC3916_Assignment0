@@ -1,0 +1,47 @@
+GET https://openlibrary.org/search.json?title={{book_id
+200
+439 ms
+Network
+Request Headers
+User-Agent: PostmanRuntime/7.51.1
+Accept: */*
+Postman-Token: b243871e-134a-46ef-9772-a49a042c53d6
+Host: openlibrary.org
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Response Headers
+Server: nginx/1.28.1
+Date: Mon, 02 Feb 2026 00:30:04 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+x-served-by: FastAPI
+Referrer-Policy: no-referrer-when-downgrade
+Content-Encoding: gzip
+## no cache
+## host server: openlibrary.org
+## accept: gzip/deflate compress
+
+GET https://openlibrary.org/search.json?title={{book_title
+200
+429 ms
+Network
+Request Headers
+User-Agent: PostmanRuntime/7.51.1
+Accept: */*
+Postman-Token: 5e14a224-9ef0-4f62-a144-46845e675b61
+Host: openlibrary.org
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Response Headers
+Server: nginx/1.28.1
+Date: Mon, 02 Feb 2026 00:30:04 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+x-served-by: FastAPI
+Referrer-Policy: no-referrer-when-downgrade
+Content-Encoding: gzip
+## no cache
+## host server: openlibrary.org
+## accept: gzip/deflate compress
